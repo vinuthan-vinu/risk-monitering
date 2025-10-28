@@ -1,0 +1,8 @@
+{
+  "name": "Copy of LifeGuard.AI: Intelligent Disaster Alerts",
+  "description": "An intelligent weather and disaster alert system powered by Gemini. It provides real-time risk assessments, predictive analysis, AI-driven safety recommendations, and damage evaluation tools to help users stay safe and prepared.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
